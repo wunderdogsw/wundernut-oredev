@@ -1,0 +1,4 @@
+```
+cd Wundernut
+dotnet run
+```
